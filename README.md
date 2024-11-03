@@ -1,4 +1,4 @@
-# Debian Auto updater
+# Debian Auto updater (updategrade.sh)
 
 Bash script to update, upgrade and remove all packages
 My first bash script try :)
